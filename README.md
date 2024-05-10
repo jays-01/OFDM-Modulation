@@ -19,7 +19,7 @@ To use this modulator in your project:
 1. Clone this repository to your local machine.
 2. Customize the parameters in the Verilog modules (`module_name.v`) as needed for your application.
 3. Instantiate the modulator modules in your design and connect them according to your system requirements.
-4. Simulate the design using the provided testbench in the `sim/` directory to verify functionality.
+4. Simulate the design using the provided testbench in the `modulator_tb.sv` file to verify functionality.
 5. Synthesize the design using your FPGA synthesis toolchain and program it onto your target FPGA board.
 
 ## Contributing
